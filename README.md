@@ -16,20 +16,10 @@
 - 🌱 I’m right now, learning API developing and solidity
 - 🥅 2022 Goals: Learn more about web3 and solidity
 
-### Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/kourosatae#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/kourosatae#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/kouroshataei#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kouroshataei#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/kourosatae#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/kourosatae#gh-dark-mode-only)
-
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="JAVA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>][github]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][github]
