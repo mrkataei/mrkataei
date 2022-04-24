@@ -11,8 +11,7 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: ./.github/actions/automatic-tests
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@main
       - uses: mrkataei/mrkataei@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
