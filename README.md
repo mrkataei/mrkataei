@@ -49,6 +49,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/mrkataei/mrkataei/pull/2) in [mrkataei/mrkataei](https://github.com/mrkataei/mrkataei)
+<!--END_SECTION:activity-->
 <!--END_SECTION:activity--></details>
 
 [github]: https://github.com/mrkataei
