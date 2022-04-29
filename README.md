@@ -16,6 +16,7 @@
 - 🌱 I’m right now, learning API developing and solidity
 - 🥅 2022 Goals: Learn more about web3 and solidity
 
+[![Kourosh_Ataei_CV](https://img.shields.io/badge/My%20CV-download-green)](https://raw.githubusercontent.com/mrkataei/mrkataei/main/cv.pdf)
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][github]
