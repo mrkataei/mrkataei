@@ -12,8 +12,8 @@
 
 - 👨🏻‍🎓 Graduate Software Engineering B.Sc. @ [FUM](https://en.um.ac.ir/)
 - 🐍 I’m currently using python
-- 🌱 I’m right now, learning API developing and solidity
-- 🥅 2022 Goals: Learn more about web3 and solidity
+- 🌱 I’m right now, learning API developing and React
+- 🥅 2022 Goals: Learn more about API development and React
 
 [![Kourosh_Ataei_CV](https://img.shields.io/badge/My%20CV-download-green)](https://raw.githubusercontent.com/mrkataei/mrkataei/main/cv.pdf)
 ### Languages and Tools:
