@@ -1,13 +1,11 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Kourosh Ataei
 
 
-[![Kourosh Atae Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kourosh-ataei-14a2191b8)
-[![Kourosh Atae Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrkataei)
-[![Kourosh Atae Telegram](https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrkatae)
-[![Kourosh Atae Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kouroshinfo96@gmail.com)
-[![Kourosh Atae StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18917405/mrkataei)
-
-![Discord Banner 2](https://discordapp.com/api/guilds/809129052534734869/widget.png?style=banner2)
+[![Kourosh Ataei Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kourosh-ataei-14a2191b8)
+[![Kourosh Ataei Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrkataei)
+[![Kourosh Ataei Telegram](https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrkatae)
+[![Kourosh Ataei Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kouroshinfo96@gmail.com)
+[![Kourosh Ataei StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18917405/mrkataei)
 
 
 ## A Developer who loves OOP! Developer, Junior software engineer
