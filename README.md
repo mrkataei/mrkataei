@@ -42,11 +42,5 @@
 ![Kourosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrkataei&show_icons=true&theme=dark&hide_border=true&icon_color=3256a8&title_color=23cf31)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkataei&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=23cf31)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/mrkataei/mrkataei/pull/2) in [mrkataei/mrkataei](https://github.com/mrkataei/mrkataei)
-<!--END_SECTION:activity-->
-<!--END_SECTION:activity--></details>
 
 [github]: https://github.com/mrkataei
