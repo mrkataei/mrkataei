@@ -11,9 +11,9 @@
 ## A Developer who loves OOP! Developer, Junior software engineer
 
 - 👨🏻‍🎓 Graduate Software Engineering B.Sc. @ [FUM](https://en.um.ac.ir/)
-- 🐍 I’m currently using python
-- 🌱 I’m right now, learning API developing and React
-- 🥅 2022 Goals: Learn more about API development and React
+- 🐍 I’m currently using python.
+- 🌱 I’m right now, learning API developing and read about Backend developing principles.
+- 🥅 2022 Goals: Learn more about API development and Backend with using python.
 
 [![Kourosh_Ataei_CV](https://img.shields.io/badge/My%20CV-download-green)](https://raw.githubusercontent.com/mrkataei/mrkataei/main/cv.pdf)
 ### Languages and Tools:
