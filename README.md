@@ -7,7 +7,8 @@
 [![Kourosh Atae Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kouroshinfo96@gmail.com)
 [![Kourosh Atae StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18917405/mrkataei)
 
-<iframe src="https://discordapp.com/widget?id=809129052534734869&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+![Discord Banner 2](https://discordapp.com/api/guilds/809129052534734869/widget.png?style=banner2)
+
 
 ## A Developer who loves OOP! Developer, Junior software engineer
 
