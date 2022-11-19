@@ -43,4 +43,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkataei&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=23cf31)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<br/>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pm1ghn2591gdxpf44oycazj3j&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 [github]: https://github.com/mrkataei
+
