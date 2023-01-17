@@ -55,5 +55,13 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pm1ghn2591gdxpf44oycazj3j&cover_image=false&theme=default&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=pm1ghn2591gdxpf44oycazj3j&redirect=true)
 
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
 [github]: https://github.com/mrkataei
 
