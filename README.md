@@ -8,7 +8,7 @@
 [![Kourosh Ataei StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18917405/mrkataei)
 
 
-## A Developer who loves OOP! Developer, Junior software engineer
+## A Developer who loves OOP! Developer, Software engineer
 
 - 👨🏻‍🎓 Graduate Software Engineering B.Sc. @ [FUM](https://en.um.ac.ir/)
 - 🐍 I’m currently using python.
