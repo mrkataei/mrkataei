@@ -1,8 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Kourosh Ataei
 
-
-[![Kourosh Ataei Linkedin](https://img.shields.io/website?color=blue&logo=salam&style=for-the-badge&up_message=check%20it%21&url=https%3A%2F%2Fwww.mrkatae.ir)](https://www.linkedin.com/in/kourosh-ataei-14a2191b8)
-[![Kourosh Ataei Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.mrkatae.ir)
+[![Kourosh Ataei Website](https://img.shields.io/website?color=blue&logo=salam&style=for-the-badge&up_message=check%20it%21&url=https%3A%2F%2Fwww.mrkatae.ir)](https://www.mrkatae.ir)
+[![Kourosh Ataei Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kourosh-ataei-14a2191b8)
 [![Kourosh Ataei Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrkataei)
 [![Kourosh Ataei Telegram](https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrkatae)
 [![Kourosh Ataei Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kouroshinfo96@gmail.com)
