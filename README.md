@@ -8,12 +8,12 @@
 [![Kourosh Ataei StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18917405/mrkataei)
 
 
-## A Developer who loves OOP! Developer, Software engineer
+## A Developer who loves Python🐍! Developer, Software engineer!
 
 - 👨🏻‍🎓 Graduate Software Engineering B.Sc. @ [FUM](https://en.um.ac.ir/)
 - 🐍 I’m currently using python.
-- 🌱 I’m right now, learning API developing and read about Backend developing principles.
-- 🥅 2022 Goals: Learn more about API development and Backend with using python.
+- 🌱 I’m right now, learning Deployment(CI/CD) and aquire skills about Backend developing principles.
+- 🥅 2023 Goals: Learn more about Django and DRF.
 
 [![Kourosh_Ataei_CV](https://img.shields.io/badge/My%20CV-download-green)](https://raw.githubusercontent.com/mrkataei/mrkataei/main/cv.pdf)
 ### Languages and Tools:
