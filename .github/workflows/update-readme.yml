@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: mrkataei/github-activity-readme@main
+      - uses: mrkataei/mrkataei@main@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
