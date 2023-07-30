@@ -44,6 +44,4 @@
 
 <br/>
 <br/>
-[github]: https://github.com/mrkataei
-[![](https://visitcount.itsvg.in/api?id=MrKataei&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)]
-
+[![](https://visitcount.itsvg.in/api?id=MrKataei&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
