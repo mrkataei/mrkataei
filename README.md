@@ -54,7 +54,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pm1ghn2591gdxpf44oycazj3j&cover_image=false&theme=default&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=pm1ghn2591gdxpf44oycazj3j&redirect=true)
 
-
+[![](https://visitcount.itsvg.in/api?id=alireza-gsh&icon=5&color=0)](https://visitcount.itsvg.in)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
