@@ -42,6 +42,4 @@
 5. 🎉 Merged PR [#6](https://github.com/mrkataei/mrkataei/pull/6) in [mrkataei/mrkataei](https://github.com/mrkataei/mrkataei)
 <!--END_SECTION:activity-->
 
-<br/>
-<br/>
-[![](https://visitcount.itsvg.in/api?id=MrKataei&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mrkataei&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
