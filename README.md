@@ -35,7 +35,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/mrkataei/mrkataei/pull/8) in [mrkataei/mrkataei](https://github.com/mrkataei/mrkataei)
+1. 🚀 Published release [Final](https://github.com/mrkataei/GPT-Telegram-Bot/releases/tag/final) in [mrkataei/GPT-Telegram-Bot](https://github.com/mrkataei/GPT-Telegram-Bot)
 2. 💪 Opened PR [#8](https://github.com/mrkataei/mrkataei/pull/8) in [mrkataei/mrkataei](https://github.com/mrkataei/mrkataei)
 3. 🎉 Merged PR [#7](https://github.com/mrkataei/mrkataei/pull/7) in [mrkataei/mrkataei](https://github.com/mrkataei/mrkataei)
 4. 💪 Opened PR [#7](https://github.com/mrkataei/mrkataei/pull/7) in [mrkataei/mrkataei](https://github.com/mrkataei/mrkataei)
